@@ -1,0 +1,205 @@
+{
+    "transportation": "http://134.209.12.157/transportation/",
+    "homepage": "http://134.209.12.157/homepage/",
+    "news": "http://134.209.12.157/news/",
+    "videos": "http://134.209.12.157/videos/",
+    "careers": "http://134.209.12.157/careers/",
+    "contact-us": "http://134.209.12.157/contact-us/",
+    "portfolio": "http://134.209.12.157/portfolio/",
+    "travel-tickets": "http://134.209.12.157/travel-tickets/",
+    "hajj-omrah": "http://134.209.12.157/hajj-omrah/",
+    "retail": "http://134.209.12.157/retail/",
+    "Travel-packages": "http://134.209.12.157/Travel-packages/"
+}
+,
+
+{"baseurl": "http://134.209.12.157/"},
+
+
+{
+  "transportations": [
+    {
+      "id": 1,
+      "title": "ccc",
+      "cartype": "toyta",
+      "priceperday": "1200",
+      "pricepermonth": "300",
+      "description": "dfbxvbn",
+      "links": [
+        {
+          "id": 1,
+          "url": "https://drive.google.com/file/d/1Q0_nEl5YcueVRHlFtOazQgGpKOgOtXOg/view?usp=sharing",
+          "label": "car"
+        },
+        {
+          "id": 2,
+          "url": "https://drive.google.com/file/d/1Q0_nEl5YcueVRHlFtOazQgGpKOgOtXOg/view?usp=sharing",
+          "label": "cccc"
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+        "id": 1,
+        "links": [
+            {
+                "id": 1,
+                "url": "https://drive.google.com/file/d/1Q0_nEl5YcueVRHlFtOazQgGpKOgOtXOg/view?usp=sharing",
+                "label": "car"
+            }
+        ],
+        "title": "linm",
+        "content": "njhgghjgkj",
+        "date": "2025-09-21T14:31:47.989159Z"
+    }
+  ],
+  "videos": [
+     {
+        "id": 1,
+        "links": [
+            {
+                "id": 1,
+                "url": "https://drive.google.com/file/d/1Q0_nEl5YcueVRHlFtOazQgGpKOgOtXOg/view?usp=sharing",
+                "label": "car"
+            },
+            {
+                "id": 2,
+                "url": "https://drive.google.com/file/d/1Q0_nEl5YcueVRHlFtOazQgGpKOgOtXOg/view?usp=sharing",
+                "label": "cccc"
+            }
+        ],
+        "title": "ooll",
+        "description": "ythc"
+    }
+  ],
+  "careers": [
+     {
+        "id": 1,
+        "links": [
+            {
+                "id": 1,
+                "url": "https://drive.google.com/file/d/1Q0_nEl5YcueVRHlFtOazQgGpKOgOtXOg/view?usp=sharing",
+                "label": "car"
+            }
+        ],
+        "job_title": "ceo",
+        "description": "ooiib,jb",
+        "requirements": "hjcc",
+        "posted_at": "2025-09-21T14:30:11.826595Z"
+    }
+  ],
+  "contact_us": [
+    {
+        "id": 1,
+        "links": [
+            {
+                "id": 1,
+                "url": "https://drive.google.com/file/d/1Q0_nEl5YcueVRHlFtOazQgGpKOgOtXOg/view?usp=sharing",
+                "label": "car"
+            }
+        ],
+        "name": "ahmed",
+        "email": "ahmay964@gmail.com",
+        "message": "hvvkvj kj",
+        "submitted_at": "2025-09-21T14:29:19.784317Z"
+    }
+  ],
+  "portfolio": [
+    {
+        "id": 1,
+        "links": [
+            {
+                "id": 1,
+                "url": "https://drive.google.com/file/d/1Q0_nEl5YcueVRHlFtOazQgGpKOgOtXOg/view?usp=sharing",
+                "label": "car"
+            }
+        ],
+        "project_name": "trttt",
+        "description": "svxb"
+    }
+  ],
+  "travel_tickets": [
+     {
+        "id": 1,
+        "links": [
+            {
+                "id": 1,
+                "url": "https://drive.google.com/file/d/1Q0_nEl5YcueVRHlFtOazQgGpKOgOtXOg/view?usp=sharing",
+                "label": "car"
+            },
+            {
+                "id": 2,
+                "url": "https://drive.google.com/file/d/1Q0_nEl5YcueVRHlFtOazQgGpKOgOtXOg/view?usp=sharing",
+                "label": "cccc"
+            }
+        ],
+        "destination": "cai to london",
+        "price": "15000.00",
+        "available": true
+    }
+  ],
+  "hajj_omrah": [
+     {
+        "id": 1,
+        "links": [
+            {
+                "id": 2,
+                "url": "https://drive.google.com/file/d/1Q0_nEl5YcueVRHlFtOazQgGpKOgOtXOg/view?usp=sharing",
+                "label": "cccc"
+            }
+        ],
+        "package_name": "hajj",
+        "description": "xvbxbcdfxgv",
+        "price": "30.00"
+    }
+  ],
+  "retail": [
+     {
+        "id": 1,
+        "links": [
+            {
+                "id": 1,
+                "url": "https://drive.google.com/file/d/1Q0_nEl5YcueVRHlFtOazQgGpKOgOtXOg/view?usp=sharing",
+                "label": "car"
+            }
+        ],
+        "product_name": "one month",
+        "description": "vvxcxb",
+        "price": "0.08"
+    }
+  ],
+  "travel_packages": [
+   {
+        "id": 1,
+        "links": [
+            {
+                "id": 1,
+                "url": "https://drive.google.com/file/d/1Q0_nEl5YcueVRHlFtOazQgGpKOgOtXOg/view?usp=sharing",
+                "label": "car"
+            },
+            {
+                "id": 2,
+                "url": "https://drive.google.com/file/d/1Q0_nEl5YcueVRHlFtOazQgGpKOgOtXOg/view?usp=sharing",
+                "label": "cccc"
+            }
+        ],
+        "product_name": "gmmm",
+        "description": "mgjvm",
+        "image": "https://search.yahoo.com/search?fr=mcafee&type=E210US91105G0&p=%D8%A7%D9%84%D8%B1%D9%85%D8%B2+%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%AF%D9%89+%D9%84%D9%84%D9%81%D9%8A%D9%88%D9%85"
+    },
+    {
+        "id": 2,
+        "links": [
+            {
+                "id": 2,
+                "url": "https://drive.google.com/file/d/1Q0_nEl5YcueVRHlFtOazQgGpKOgOtXOg/view?usp=sharing",
+                "label": "cccc"
+            }
+        ],
+        "product_name": "لابلؤءبلارؤ",
+        "description": "ءىلاسئيللار",
+        "image": "https://search.yahoo.com/search?fr=mcafee&type=E210US91105G0&p=%D8%A7%D9%84%D8%B1%D9%85%D8%B2+%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%AF%D9%89+%D9%84%D9%84%D9%81%D9%8A%D9%88%D9%85"
+    }
+  ]
+}
