@@ -10,9 +10,9 @@
     "hajj-omrah": "http://134.209.12.157/hajj-omrah/",
     "retail": "http://134.209.12.157/retail/",
     "Travel-packages": "http://134.209.12.157/Travel-packages/"
+    
 }
 ,
-
 {"baseurl": "http://134.209.12.157/"},
 
 
@@ -203,3 +203,18 @@
     }
   ]
 }
+
+
+
+
+http://127.0.0.1:8000/hotels/search/?location=Cairo&check_in=2025-10-1&check_out=2025-10-12
+
+http://127.0.0.1:8000/transportation/search/?cartype=hiace
+
+
+http://127.0.0.1:8000/Flight-Search/search/?from_city=cairo&to_city=aswan&departure_date=2025-09-27&return_date=2025-09-30&travel_class=economy 
+
+
+
+http://127.0.0.1:8000/Travel-packages/search/?name=spian
+

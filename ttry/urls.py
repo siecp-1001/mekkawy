@@ -14,6 +14,8 @@ router.register(r'travel-tickets', TravelTicketViewSet)
 router.register(r'hajj-omrah', HajjOmrahViewSet)
 router.register(r'retail', RetailViewSet)
 router.register(r'Travel-packages', TravelpackagesViewSet)
+router.register(r'Flight-Search', FlightSearchViewSet)
+router.register(r'hotels', HotelViewSet)
 
 
 urlpatterns = [

@@ -13,6 +13,8 @@ from .models import (
     Retail,
     Travelpackages,
     Link,
+    FlightSearch,
+    Hotel
 )
 
 
@@ -32,6 +34,11 @@ def make_links_form(model):
 class HajjOmrahAdmin(admin.ModelAdmin):
     form = make_links_form(HajjOmrah)
 
+class HotelAdmin(admin.ModelAdmin):
+    form = make_links_form(Hotel)
+
+class FlightSearchAdmin(admin.ModelAdmin):
+    form = make_links_form(FlightSearch)
 
 class TravelpackagesAdmin(admin.ModelAdmin):
     form = make_links_form(Travelpackages)
@@ -85,4 +92,6 @@ admin.site.register(TravelTicket, TravelTicketAdmin)
 admin.site.register(HajjOmrah, HajjOmrahAdmin)
 admin.site.register(Retail, RetailAdmin)
 admin.site.register(Travelpackages, TravelpackagesAdmin)
+admin.site.register(FlightSearch, FlightSearchAdmin)
+admin.site.register(Hotel, HotelAdmin)
 admin.site.register(Link)
