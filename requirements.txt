@@ -39,7 +39,7 @@ django-widget-tweaks==1.5.0
 djangorestframework==3.15.2
 djangorestframework-simplejwt==5.3.1
 djoser==2.2.2
-dlib @ file:///D:/nanbei%20project/dlib-19.24.2-cp312-cp312-win_amd64.whl#sha256=df9a383c4e54c9907b22a15463d526b3daf6cf7bc12ec59495a41c7ba91de93e
+
 drf-yasg==1.21.7
 easygui==0.98.3
 ebcdic==1.1.1
