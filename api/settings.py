@@ -113,6 +113,7 @@ TIME_ZONE = 'UTC'
 USE_I18N = True
 
 USE_TZ = True
+
 STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
 
 # Optional: URL prefix for serving static files
